@@ -1,3 +1,9 @@
+## Modified Gary F
+
+Changed to complete project .. ready for submission
+1 Main.R contains download, cleaning and preprocessing.
+2 Graphs are in the images folder
+
 ## Introduction
 
 This assignment uses data from
